@@ -1,0 +1,51 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB_isim_beh.exe -prj /home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB_beh.prj work.ALUTB 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorMedio.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Sumador8bits.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_1bit.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_8bits.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador1bit.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhd" Line 50: Actual for formal port a is neither a static name nor a globally static expression
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSR.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSL.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/OR1.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador8bits.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/AND1.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALU.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96996 KB
+Fuse CPU Usage: 1600 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity OR1bit [or1bit_default]
+Compiling architecture behavioral of entity AND1 [and1_default]
+Compiling architecture behavioral of entity Comparador1bit [comparador1bit_default]
+Compiling architecture behavioral of entity Multiplexor2a1_1bit [multiplexor2a1_1bit_default]
+Compiling architecture behavioral of entity Multiplexor2a1_8bits [multiplexor2a1_8bits_default]
+Compiling architecture behavioral of entity Comparador8bits [comparador8bits_default]
+Compiling architecture behavioral of entity SSL [ssl_default]
+Compiling architecture behavioral of entity SSR [ssr_default]
+Compiling architecture behavioral of entity SumadorMedio [sumadormedio_default]
+Compiling architecture behavioral of entity SumadorCompleto [sumadorcompleto_default]
+Compiling architecture behavioral of entity Sumador8bits [sumador8bits_default]
+Compiling architecture behavioral of entity Ca2 [ca2_default]
+Compiling architecture behavioral of entity Restador8bits [restador8bits_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavior of entity alutb
+Time Resolution for simulation is 1ps.
+Waiting for 12 sub-compilation(s) to finish...
+Compiled 33 VHDL Units
+Built simulation executable /home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB_isim_beh.exe
+Fuse Memory Usage: 407220 KB
+Fuse CPU Usage: 1830 ms
+GCC CPU Usage: 1490 ms

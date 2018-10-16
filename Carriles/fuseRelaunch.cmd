@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/alejandro/Documentos/Laboratorio de Electronica/Carriles/tbCarriles_isim_beh.exe" -prj "/home/alejandro/Documentos/Laboratorio de Electronica/Carriles/tbCarriles_beh.prj" "work.tbCarriles" 

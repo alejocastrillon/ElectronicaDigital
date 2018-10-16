@@ -1,0 +1,29 @@
+Command line:
+   tbPrimoModule_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53301
+
+Wed Sep 27 11:27:38 2017
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 235.864 Meg
+
+ Total Signals          : 18
+ Total Nets             : 13
+ Total Signal Drivers   : 13
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 10
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 373
+Total Line Count : 90
+
+ Total Simulation Time: 0.06 sec
+
+ Current Memory Usage: 311.366 Meg
+
+Wed Sep 27 11:28:18 2017
+

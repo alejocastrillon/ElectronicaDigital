@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador8bits.vhi" -module Comparador8bits -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Multiplexor2a1_1bit.vhd -lib work Multiplexor2a1_8bits.vhd -lib work Comparador1bit.vhd -lib work Comparador8bits.vhd 

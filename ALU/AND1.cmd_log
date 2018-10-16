@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/AND1.vhi" -module AND1 -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work AND1.vhd 

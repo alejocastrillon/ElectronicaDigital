@@ -1,0 +1,29 @@
+Command line:
+   tbCarriles_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  37205
+
+Wed Nov  1 11:16:51 2017
+
+
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 235.876 Meg
+
+ Total Signals          : 50
+ Total Nets             : 41
+ Total Signal Drivers   : 41
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 37
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 401
+Total Line Count : 229
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 311.378 Meg
+
+Wed Nov  1 11:56:50 2017
+

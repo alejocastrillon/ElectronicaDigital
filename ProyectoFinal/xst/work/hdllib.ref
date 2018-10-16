@@ -1,0 +1,6 @@
+AR sumador_altonivel behavioral "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_AltoNivel.vhd" sub00/vhpl05 1512430393
+AR sumador_completo behavioral "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_Completo.vhd" sub00/vhpl03 1512430391
+EN sumadormedio NULL "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/sumadormedio.vhd" sub00/vhpl00 1512430388
+EN sumador_completo NULL "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_Completo.vhd" sub00/vhpl02 1512430390
+AR sumadormedio behavioral "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/sumadormedio.vhd" sub00/vhpl01 1512430389
+EN sumador_altonivel NULL "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_AltoNivel.vhd" sub00/vhpl04 1512430392

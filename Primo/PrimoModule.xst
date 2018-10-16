@@ -1,0 +1,5 @@
+set -tmpdir "/home/alejandro/Documentos/Laboratorio de Electronica/Primo/xst/projnav.tmp"
+set -xsthdpdir "/home/alejandro/Documentos/Laboratorio de Electronica/Primo/xst"
+elaborate
+-ifn PrimoModule.prj
+-ifmt mixed

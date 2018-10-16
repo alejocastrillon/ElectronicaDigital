@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/projectAnd/andModule.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/projectAnd/andModule.syr" 

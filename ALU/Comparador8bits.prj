@@ -1,0 +1,4 @@
+vhdl work "Multiplexor2a1_1bit.vhd"
+vhdl work "Multiplexor2a1_8bits.vhd"
+vhdl work "Comparador1bit.vhd"
+vhdl work "Comparador8bits.vhd"

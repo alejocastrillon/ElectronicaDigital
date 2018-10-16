@@ -1,0 +1,5 @@
+set -tmpdir "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/xst/projnav.tmp"
+set -xsthdpdir "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/xst"
+elaborate
+-ifn Comparador8bits.prj
+-ifmt mixed

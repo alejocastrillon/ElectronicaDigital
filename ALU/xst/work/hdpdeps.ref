@@ -1,0 +1,101 @@
+V3 55
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALU.vhd" 2017/12/06.01:37:29 P.20131013
+EN work/ALU 1512566505 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALU.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU/Behavioral 1512566506 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALU.vhd" \
+      EN work/ALU 1512566505 CP OR1bit CP AND1 CP Comparador8bits CP SSL CP SSR \
+      CP Sumador8bits CP Restador8bits CP Multiplexor2a1_8bits \
+      CP Multiplexor2a1_1bit
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/AND1.vhd" 2017/12/06.01:23:36 P.20131013
+EN work/AND1 1512566495 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/AND1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/AND1/Behavioral 1512566496 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/AND1.vhd" \
+      EN work/AND1 1512566495
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhd" 2017/12/06.00:54:01 P.20131013
+EN work/Ca2 1512566487 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Ca2/Behavioral 1512566488 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhd" \
+      EN work/Ca2 1512566487 CP Sumador8bits
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador1bit.vhd" 2017/12/06.01:11:06 P.20131013
+EN work/Comparador1bit 1512566489 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador1bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Comparador1bit/Behavioral 1512566490 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador1bit.vhd" \
+      EN work/Comparador1bit 1512566489
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador8bits.vhd" 2017/12/06.01:20:53 P.20131013
+EN work/Comparador8bits 1512566497 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Comparador8bits/Behavioral 1512566498 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Comparador8bits.vhd" \
+      EN work/Comparador8bits 1512566497 CP Comparador1bit CP Multiplexor2a1_8bits
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_1bit.vhd" 2017/12/06.01:01:28 P.20131013
+EN work/Multiplexor2a1_1bit 1512566485 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_1bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Multiplexor2a1_1bit/Behavioral 1512566486 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_1bit.vhd" \
+      EN work/Multiplexor2a1_1bit 1512566485
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_8bits.vhd" 2017/12/06.01:05:59 P.20131013
+EN work/Multiplexor2a1_8bits 1512566491 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Multiplexor2a1_8bits/Behavioral 1512566492 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Multiplexor2a1_8bits.vhd" \
+      EN work/Multiplexor2a1_8bits 1512566491 CP Multiplexor2a1_1bit
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/OR1.vhd" 2017/12/06.00:59:00 P.20131013
+EN work/OR1bit 1512566493 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/OR1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR1bit/Behavioral 1512566494 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/OR1.vhd" \
+      EN work/OR1bit 1512566493
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.vhd" 2017/12/06.00:55:26 P.20131013
+EN work/Restador8bits 1512566503 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Restador8bits/Behavioral 1512566504 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.vhd" \
+      EN work/Restador8bits 1512566503 CP Ca2 CP Sumador8bits
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSL.vhd" 2017/12/06.08:20:49 P.20131013
+EN work/SSL 1512566499 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSL.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSL/Behavioral 1512566500 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSL.vhd" \
+      EN work/SSL 1512566499
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSR.vhd" 2017/12/06.08:20:54 P.20131013
+EN work/SSR 1512566501 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSR.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/SSR/Behavioral 1512566502 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSR.vhd" \
+      EN work/SSR 1512566501
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Sumador8bits.vhd" 2017/12/06.00:37:39 P.20131013
+EN work/Sumador8bits 1512566483 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Sumador8bits.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sumador8bits/Behavioral 1512566484 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Sumador8bits.vhd" \
+      EN work/Sumador8bits 1512566483 CP SumadorMedio CP SumadorCompleto
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhd" 2017/12/06.00:26:47 P.20131013
+EN work/SumadorCompleto 1512566481 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/SumadorCompleto/Behavioral 1512566482 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhd" \
+      EN work/SumadorCompleto 1512566481
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorMedio.vhd" 2017/12/06.00:23:41 P.20131013
+EN work/SumadorMedio 1512566479 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorMedio.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/SumadorMedio/Behavioral 1512566480 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorMedio.vhd" \
+      EN work/SumadorMedio 1512566479

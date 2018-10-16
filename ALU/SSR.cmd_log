@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SSR.vhi" -module SSR -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SSR.vhd 

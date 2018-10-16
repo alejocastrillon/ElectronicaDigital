@@ -1,0 +1,2 @@
+vhdl isim_temp "PrimoModule.vhd"
+vhdl isim_temp "tbPrimoModule.vhd"

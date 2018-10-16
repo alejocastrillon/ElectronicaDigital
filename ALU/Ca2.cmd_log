@@ -1,0 +1,1 @@
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Ca2.vhi" -module Ca2 -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorMedio.vhd -lib work SumadorCompleto.vhd -lib work Sumador8bits.vhd -lib work Ca2.vhd 

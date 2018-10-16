@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB_isim_beh.exe" -prj "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/ALUTB_beh.prj" "work.ALUTB" 

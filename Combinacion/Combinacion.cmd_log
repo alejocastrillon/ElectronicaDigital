@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/Combinacion/Combinacion.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/Combinacion/Combinacion.syr" 
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/Combinacion/Combinacion.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/Combinacion/Combinacion.syr" 

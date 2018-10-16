@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel_isim_beh.exe -prj /home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel_beh.prj work.TBSumador_AltoNivel 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_Completo.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/sumadormedio.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/Sumador_AltoNivel.vhd" into library work
+Parsing VHDL file "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95200 KB
+Fuse CPU Usage: 1580 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity sumadormedio [sumadormedio_default]
+Compiling architecture behavioral of entity Sumador_Completo [sumador_completo_default]
+Compiling architecture behavioral of entity Sumador_AltoNivel [sumador_altonivel_default]
+Compiling architecture behavior of entity tbsumador_altonivel
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable /home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel_isim_beh.exe
+Fuse Memory Usage: 398720 KB
+Fuse CPU Usage: 1630 ms
+GCC CPU Usage: 580 ms

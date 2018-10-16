@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/Example/Sensor.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/Example/Sensor.syr" 
+netgen -intstyle ise -ar Structure -tm Sensor -w -dir netgen/synthesis -ofmt vhdl -sim Sensor.ngc Sensor_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Sensor.ngc" Sensor.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Sensor_map.ncd Sensor.ngd Sensor.pcf 

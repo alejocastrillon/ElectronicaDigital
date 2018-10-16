@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.syr" 
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/Restador8bits.vhi" -module Restador8bits -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorMedio.vhd -lib work SumadorCompleto.vhd -lib work Sumador8bits.vhd -lib work Ca2.vhd -lib work Restador8bits.vhd 

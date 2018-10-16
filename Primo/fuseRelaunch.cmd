@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/alejandro/Documentos/Laboratorio de Electronica/Primo/tbPrimoModule_isim_beh.exe" -prj "/home/alejandro/Documentos/Laboratorio de Electronica/Primo/tbPrimoModule_beh.prj" "work.tbPrimoModule" 

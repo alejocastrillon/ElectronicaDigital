@@ -1,0 +1,4 @@
+vhdl work "Sumador_Completo.vhd"
+vhdl work "sumadormedio.vhd"
+vhdl work "Sumador_AltoNivel.vhd"
+vhdl work "TBSumador_AltoNivel.vhd"

@@ -1,0 +1,4 @@
+vhdl isim_temp "Sumador_Completo.vhd"
+vhdl isim_temp "sumadormedio.vhd"
+vhdl isim_temp "Sumador_AltoNivel.vhd"
+vhdl isim_temp "TBSumador_AltoNivel.vhd"

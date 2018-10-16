@@ -1,0 +1,8 @@
+V3 3
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/projectAnd/andModule.vhd" 2017/09/25.19:29:24 P.20131013
+EN work/andModule 1506386024 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/projectAnd/andModule.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/andModule/Behavioral 1506386025 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/projectAnd/andModule.vhd" \
+      EN work/andModule 1506386024

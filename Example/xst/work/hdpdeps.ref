@@ -1,0 +1,8 @@
+V3 3
+FL "/home/alejandro/Documentos/Laboratorio de Electronica/Example/Sensor.vhd" 2018/02/28.11:52:33 P.20131013
+EN work/Sensor 1519836807 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/Example/Sensor.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Sensor/Behavioral 1519836808 \
+      FL "/home/alejandro/Documentos/Laboratorio de Electronica/Example/Sensor.vhd" \
+      EN work/Sensor 1519836807

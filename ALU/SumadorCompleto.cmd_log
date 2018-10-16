@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.xst" -ofn "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.syr" 
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhi" -module SumadorCompleto -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorCompleto.vhd 
+vhdtdtfi -prj ALU -o "/home/alejandro/Documentos/Laboratorio de Electronica/ALU/SumadorCompleto.vhi" -module SumadorCompleto -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SumadorCompleto.vhd 

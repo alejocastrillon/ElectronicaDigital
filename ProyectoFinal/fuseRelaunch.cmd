@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel_isim_beh.exe" -prj "/home/alejandro/Documentos/Laboratorio de Electronica/ProyectoFinal/TBSumador_AltoNivel_beh.prj" "work.TBSumador_AltoNivel" 
